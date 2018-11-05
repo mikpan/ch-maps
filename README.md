@@ -1,6 +1,6 @@
 # Maps of Switzerland in [GeoJSON](https://en.wikipedia.org/wiki/GeoJSON) and [TopoJSON](https://github.com/mbostock/topojson)
 
-This repository provides a mechanism to generate [GeoJSON](https://en.wikipedia.org/wiki/GeoJSON) and [TopoJSON](https://github.com/mbostock/topojson) from publicly available (but difficult to access) [swisstopo](https://www.swisstopo.admin.ch/) geodata. The original code to generate [TopoJSON](https://github.com/interactivethings/swiss-maps).
+This repository provides a mechanism to generate [GeoJSON](https://en.wikipedia.org/wiki/GeoJSON) and [TopoJSON](https://github.com/mbostock/topojson) from publicly available (but difficult to access) [swisstopo](https://www.swisstopo.admin.ch/) geodata. The original code: [Swiss Maps](https://github.com/interactivethings/swiss-maps).
 
 ## Swiss maps in GeoJSON format
 
