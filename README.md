@@ -2,6 +2,10 @@
 
 This repository provides a mechanism to generate [GeoJSON](https://en.wikipedia.org/wiki/GeoJSON) and [TopoJSON](https://github.com/mbostock/topojson) from publicly available (but difficult to access) [swisstopo](https://www.swisstopo.admin.ch/) geodata. The original code to generate [TopoJSON](https://github.com/interactivethings/swiss-maps).
 
+## GeoJSON maps to download
+
+* [Swiss lakes](geo/ch-country.geojson)
+
 ## Getting Started
 
 To generate the TopoJSON and GeoJSON files you need to install Node.js, either with the [official Node.js installer](http://nodejs.org/) or via [Homebrew](http://mxcl.github.io/homebrew/):
@@ -32,7 +36,7 @@ Convert CH PLZ map to WSG geojson format:
     python convert_to_wsg.py ch-plz.geojson ch-plz-wdg84.geojson
 
 
-`make` or `make all` generates the following TopoJSON files:
+`make` or `make all` generates the following TopoJSON and files:
 
 * `ch-country.json`
 * `ch-cantons.json`
