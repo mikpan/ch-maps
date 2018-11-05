@@ -2,9 +2,14 @@
 
 This repository provides a mechanism to generate [GeoJSON](https://en.wikipedia.org/wiki/GeoJSON) and [TopoJSON](https://github.com/mbostock/topojson) from publicly available (but difficult to access) [swisstopo](https://www.swisstopo.admin.ch/) geodata. The original code to generate [TopoJSON](https://github.com/interactivethings/swiss-maps).
 
-## GeoJSON maps to download
+## Swiss maps in GeoJSON format
 
-* [Swiss lakes](geo/ch-country.geojson)
+* [Country](geo/ch.geojson)
+* [Postal codes regions](geo/ch-plz.geojson)
+* [Districts](geo/ch-districts.geojson)
+* [Lakes](geo/ch-country.geojson)
+* [Municipalities](geo/ch-municipalities.geojson)
+* [Municipalities by canton](geo/muni)
 
 ## Getting Started
 
