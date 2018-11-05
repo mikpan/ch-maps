@@ -1,0 +1,5 @@
+.idea/
+build/
+downloads/
+generate.sh
+node_modules/
